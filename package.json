@@ -39,8 +39,10 @@
   "dependencies": {
     "@types/dompurify": "^3.2.0",
     "dompurify": "^3.2.5",
+    "driver": "^1.0.0",
     "he": "^1.2.0",
     "openai": "^4.90.0",
+    "postgres": "^3.4.5",
     "posthog-js": "^1.234.4"
   }
 }
