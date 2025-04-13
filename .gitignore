@@ -46,5 +46,8 @@ next-env.d.ts
 .idea
 .vscode
 .turbo
+<<<<<<< HEAD
 i18n.cache
+=======
+>>>>>>> e40228aa ("Added .qodo to .gitignore")
 .qodo
